@@ -1,1 +1,9 @@
+---
+# NOTE: 이 파일 상단의 프론트매터(---)는 꼭 필요합니다!
+---
+
+/* 카드 그림자/둥근 모서리 등 미세 튜닝 */
+.mm-card, .archive__item-teaser, .feature__wrapper .archive__item {
+  border-radius: 16px;
+}
 
