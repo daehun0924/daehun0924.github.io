@@ -1,3 +1,63 @@
-title: My Portfolio
-description: Welcome to my portfolio site!
-theme: minima
+title: "Daehun Kim Portfolio"
+description: "AI · Web · VR Projects"
+url: "https://daehun0924.github.io"
+baseurl: ""   # user/organization 사이트는 빈 값
+
+# 🔹 Minimal Mistakes 테마 (원격 테마)
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+
+# 사이트 스킨(다크/라이트)
+minimal_mistakes_skin: "dark"   # "default", "air", "aqua", "dark" 등
+
+# 네비게이션, 작성자 정보
+locale: "ko-KR"
+name: "Daehun Kim"
+email: "your@email.com"
+repository: "daehun0924/daehun0924.github.io"
+
+# 빌드 옵션 & 플러그인 (GitHub Pages 허용 목록)
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-remote-theme
+  - jekyll-include-cache
+
+# 페이지 기본값
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: false
+      share: true
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+
+# 네비게이션 (아래 _data/navigation.yml 사용)
+breadcrumbs: true
+paginate: 5
+paginate_path: "/page:num/"
+
+# SEO
+permalink: /:categories/:title/
+timezone: Asia/Seoul
+
+# 소셜(원하면 채워 넣기)
+author:
+  name   : "Daehun Kim"
+  avatar : "/assets/images/avatar.jpg"
+  bio    : "Full-stack & AI developer. UX-first."
+  links:
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/daehun0924"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/"
