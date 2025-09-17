@@ -15,20 +15,19 @@ header:
       class: "btn"
 excerpt: "AI · Web · VR — 사용자 경험 중심의 개발자"
 
-
 feature_row:
   - image_path: /assets/images/avatar.jpg
     alt: "Son’sation – AI Sign Language Learning"
     title: "Son’sation"
     excerpt: "AI 기반 수어 학습 플랫폼 (React · Spring Boot · PyTorch SignBERT)"
-    
+
   - image_path: /assets/images/projects/trashbin.png
     alt: "Smart Trash Bin System"
     title: "스마트 쓰레기통 SW 시스템"
     excerpt: "Spring Boot · Spring Security · JWT · MySQL"
-    
+
   - image_path: /assets/images/projects/voca.png
-    alt: "Voca – 나만의 단어장"
+    alt: "Voca Vocabulary Web"
     title: "Voca – 나만의 단어장"
     excerpt: "React · Express · MySQL · UX 최적화 퀴즈 학습"
 ---
@@ -36,3 +35,4 @@ feature_row:
 <section id="projects">
   {% include feature_row type="left" %}
 </section>
+
