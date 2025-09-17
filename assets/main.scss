@@ -1,0 +1,66 @@
+---
+# Only the main Sass file needs front matter
+---
+@charset "utf-8";
+
+/* 1) 스킨 로드 (config의 minimal_mistakes_skin 값을 따른다) */
+$minimal_mistakes_skin: "{{ site.minimal_mistakes_skin | default: 'air' }}";
+/* 테마 스타일 불러오기 */
+@import "minimal-mistakes/skins/#{$minimal_mistakes_skin}";
+@import "minimal-mistakes";
+
+/* 2) 커스텀 디자인 (라이트톤 + 50대 면접관도 편안한 가독성) */
+
+/* 기본 색 조정: 은은한 회색 라인과 넉넉한 여백 */
+:root {
+  --brand: #1a73e8;         /* 링크/포인트 컬러 (부담 없는 블루) */
+  --text-strong: #1a1a1a;
+  --text-muted: #555;
+  --line: #e9eef3;
+}
+
+a, .archive__item-title a { color: var(--brand); }
+a:hover { text-decoration: underline; }
+
+/* 카드/박스 */
+.mm-card, .archive__item, .feature__wrapper .archive__item {
+  border-radius: 14px;
+  border: 1px solid var(--line);
+  box-shadow: 0 4px 20px rgba(0,0,0,0.04);
+  transition: transform .15s ease, box-shadow .15s ease;
+}
+.mm-card:hover, .archive__item:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 28px rgba(0,0,0,0.06);
+}
+
+/* 버튼 */
+.btn, .btn--primary {
+  border-radius: 10px;
+  padding: 12px 20px;
+  font-weight: 600;
+}
+.btn--primary {
+  background: var(--brand);
+  border-color: var(--brand);
+}
+.btn--primary:hover { filter: brightness(0.95); }
+
+/* 히어로(스플래시) 내 텍스트 대비 & 최대폭 */
+.page__hero--overlay .wrapper { max-width: 980px; }
+.page__hero--overlay .page__lead { color: #1f2937; }
+
+/* 본문 가독성 */
+.page__content p { font-size: 1.05rem; color: var(--text-muted); }
+.page__content h1 { font-size: 2.2rem; color: var(--text-strong); }
+.page__content h2 { font-size: 1.6rem; margin-top: 2.2rem; }
+
+/* 섹션 구분선 */
+hr, .page__content hr { border-top: 1px solid var(--line); }
+
+/* 푸터 간격 */
+.page__footer { border-top: 1px solid var(--line); }
+
+/* 스크롤 애니메이션: 과하지 않게 */
+.reveal { opacity: 0; transform: translateY(10px); transition: all .6s ease; }
+.reveal.is-visible { opacity: 1; transform: translateY(0); }
