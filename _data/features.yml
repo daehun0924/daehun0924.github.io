@@ -3,22 +3,11 @@ featured_projects:
     alt: "Son’sation – AI Sign Language Learning"
     title: "Son’sation"
     excerpt: "AI 기반 수어 학습 플랫폼 (React · Spring Boot · PyTorch SignBERT)"
-    url: "https://github.com/daehun0924/sonsation"   # 또는 데모 링크
-    btn_label: "View Project"
-    btn_class: "btn btn--primary"
-
   - image_path: /assets/images/projects/trashbin.png
-    alt: "Smart Trash Bin System"
+    alt: "Smart Trash Bin"
     title: "스마트 쓰레기통 SW 시스템"
     excerpt: "Spring Boot · Spring Security · JWT · MySQL"
-    url: "https://github.com/..." 
-    btn_label: "View Project"
-    btn_class: "btn btn--primary"
-
   - image_path: /assets/images/projects/voca.png
-    alt: "Voca – 나만의 단어장"
+    alt: "Voca Vocabulary Web"
     title: "Voca – 나만의 단어장"
     excerpt: "React · Express · MySQL · UX 최적화 퀴즈 학습"
-    url: "https://github.com/..."
-    btn_label: "View Project"
-    btn_class: "btn btn--primary"
