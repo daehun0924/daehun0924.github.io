@@ -16,7 +16,6 @@ header:
 excerpt: "AI · Web · VR — 사용자 경험 중심의 개발자"
 ---
 
-<section id="projects" class="reveal">
+<section id="projects">
 {% include feature_row id="featured_projects" type="left" %}
 </section>
-
