@@ -17,7 +17,7 @@ excerpt: "AI · Web · VR — 사용자 경험 중심의 개발자"
 
 
 feature_row:
-  - image_path: /assets/avatar.jpg
+  - image_path: /assets/images/avatar.jpg
     alt: "Son’sation – AI Sign Language Learning"
     title: "Son’sation"
     excerpt: "AI 기반 수어 학습 플랫폼 (React · Spring Boot · PyTorch SignBERT)"
