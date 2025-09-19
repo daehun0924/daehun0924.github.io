@@ -45,7 +45,6 @@ excerpt: ""
     <h3>Language</h3>
     <div class="badges">
       <span class="badge"><i class="devicon-javascript-plain colored"></i>JavaScript</span>
-      <span class="badge"><i class="devicon-typescript-plain colored"></i>TypeScript</span>
       <span class="badge"><i class="devicon-python-plain colored"></i>Python</span>
       <span class="badge"><i class="devicon-java-plain colored"></i>Java</span>
       <span class="badge"><i class="devicon-csharp-plain colored"></i>C#</span>
@@ -79,8 +78,8 @@ excerpt: ""
     <h3>Platform / Tool</h3>
     <div class="badges">
       <span class="badge"><i class="devicon-mysql-plain colored"></i>MySQL</span>
+      <span class="badge"><i class="devicon-mongodb-plain colored"></i>MongoDB</span>
       <span class="badge">JWT</span>
-      <span class="badge"><i class="devicon-github-plain colored"></i>GitHub Actions</span>
       <span class="badge"><i class="devicon-docker-plain colored"></i>Docker(기초)</span>
       <span class="badge">Meta Quest 3</span>
     </div>
