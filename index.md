@@ -32,7 +32,7 @@ feature_row:
     excerpt: "React · Express · MySQL · UX 최적화 퀴즈 학습"
 ---
 
-<section id="projects">
-  {% include feature_row type="left" %}
-</section>
+<div id="projects"></div>
+{% include feature_row type="left" %}
+
 
