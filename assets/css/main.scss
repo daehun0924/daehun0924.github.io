@@ -3,7 +3,13 @@
 ---
 @charset "utf-8";
 
-/* ===== 라이트 & 프로페셔널 톤 ===== */
+/* 1) Minimal Mistakes 테마 + 스킨 로드 (필수) */
+@import "minimal-mistakes/skins/air";
+@import "minimal-mistakes";
+
+/* 2) 여기부터는 네 커스텀 스타일 */
+
+/* 라이트 & 프로페셔널 톤 */
 :root{
   --brand: #1a73e8;
   --line: #e9eef3;
@@ -83,9 +89,7 @@
   background: #fff;
   box-shadow: 0 4px 20px rgba(0,0,0,.04);
 }
-.project-item .title{
-  display: flex; align-items: center; gap: 10px; flex-wrap: wrap;
-}
+.project-item .title{ display: flex; align-items: center; gap: 10px; flex-wrap: wrap; }
 .project-item .title strong{ font-size: 18px; }
 .project-item .tags{ display: inline-flex; gap: 6px; }
 .project-item .tags span{
@@ -94,8 +98,7 @@
 }
 .project-item .desc{ color: var(--text-muted); margin: 8px 0 6px; }
 .project-item .links a{
-  font-weight: 600; color: var(--brand); margin-right: 12px;
-  text-decoration: none;
+  font-weight: 600; color: var(--brand); margin-right: 12px; text-decoration: none;
 }
 .project-item .links a:hover{ text-decoration: underline; }
 
