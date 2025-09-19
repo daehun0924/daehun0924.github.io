@@ -11,7 +11,7 @@ excerpt: ""
 
 <!-- ===== HERO SLOGAN ===== -->
 <div class="hero-slogan">
-  <h1>Build Experiences, Not Just Code.</h1>
+  <h1>Build Experiences</h1>
 </div>
 
 <!-- ===== ABOUT ===== -->
