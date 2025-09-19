@@ -1,6 +1,9 @@
 main:
+  - title: "Home"
+    url: "/"
+  - title: "Stacks"
+    url: "/#stacks"
   - title: "Projects"
     url: "/#projects"
-  - title: "About"
-    url: "/about/"
-
+  - title: "Qualifications"
+    url: "/#qualifications"
