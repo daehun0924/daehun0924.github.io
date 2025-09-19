@@ -111,3 +111,15 @@
 
 /* QUAL */
 .qual-list{ margin-left: 18px; }
+
+/* 아이콘 뱃지 보완 */
+.badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+}
+.badge i {
+  font-size: 16px;
+  line-height: 1;
+}
+
