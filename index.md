@@ -20,12 +20,12 @@ excerpt: ""
     <div class="about-text">
       <h2 class="section-title">Daehun Kim | 김대훈</h2>
       <p class="lead">
-        사용자 경험 중심 위주로 만드는 풀스택/AI 개발자입니다.
+        사용자 경험 중심 위주로 만드는 풀스택/AI 개발자입니다.<br>
         AI · Web · VR 등 다양한 프로젝트를 수행하며, 사용자 경험을 최우선으로 설계하고 빠르게 배포합니다.
       </p>
 
       <div class="kv">
-        <div><strong>Contact</strong> · <a href="mailto:your@email.com">daehun6473@naver.com | 010 7664 8469</a> · <a href="https://github.com/daehun0924">GitHub</a></div>
+        <div><strong>Contact</strong> · <a href="mailto:your@email.com">daehun6473@naver.com</a> · <a href="https://github.com/daehun0924">GitHub</a></div>
         <div><strong>Education</strong> · 금오공과대학교 컴퓨터소프트웨어공학과 졸업 · 풀스택 개발자 양성 교육 과정 6기 수료(7개월)</div>
         <div><strong>Desired position</strong> · 사용자 경험 지향의 웹/AI 엔지니어</div>
       </div>
@@ -82,7 +82,9 @@ excerpt: ""
         <strong>Son’sation</strong>
         <span class="tags"><span>React</span><span>Spring Boot</span><span>PyTorch</span><span>MediaPipe</span></span>
       </div>
-      <p class="desc">AI 기반 수어 학습 플랫폼. SignBERT 기반 모델과 실시간 예측 UI를 결합해 학습-피드백 루프 제공.</p>
+      <p class="desc">AI 기반 수어 학습 플랫폼. SignBERT 기반 모델과 실시간 예측 UI를 결합해 학습-예측 결과 제공.
+       <em>개발 기간:</em> 2025.03.27 ~ 2025.05.22 · <em>개발 인원:</em> 5명 · <em>역할:</em> AI 개발 / Frontend
+      </p>
       <div class="links">
         <a href="https://github.com/daehun0924" target="_blank" rel="noopener">Repo</a>
       </div>
@@ -93,7 +95,9 @@ excerpt: ""
         <strong>스마트 쓰레기통 SW 시스템</strong>
         <span class="tags"><span>Spring Boot</span><span>Spring Security</span><span>JWT</span><span>MySQL</span></span>
       </div>
-      <p class="desc">배출 이벤트 수집 → 관리자 대시보드에서 상태 확인 및 수거 요청까지 연결되는 공공/IoT 연계 웹 서비스.</p>
+      <p class="desc">배출 이벤트 수집 → 관리자 대시보드에서 상태 확인 및 수거 요청까지 연결되는 공공 기관 연계 웹 서비스.<br>
+       <em>개발 기간:</em> 2025.03.20 ~ 2024.04.01 · <em>개발 인원:</em> 1명
+      </p>
       <div class="links">
         <a href="https://github.com/daehun0924" target="_blank" rel="noopener">Repo</a>
       </div>
@@ -104,13 +108,15 @@ excerpt: ""
         <strong>Voca – 나만의 단어장</strong>
         <span class="tags"><span>React</span><span>Express</span><span>MySQL</span></span>
       </div>
-      <p class="desc">단어장 생성·관리와 퀴즈를 하나로 묶은 UX 중심 어휘 학습 서비스. 세트 기반 데이터 구조 및 결과 저장.</p>
+      <p class="desc">단어장 생성·관리와 퀴즈를 하나로 묶은 UX 중심 어휘 학습 서비스. 세트 기반 데이터 구조 및 결과 저장.<br>
+       <em>개발 기간:</em> 2025.02.27 ~ 2025.03.11 · <em>개발 인원:</em> 3명 · <em>역할:</em> Frontend/Backend
+      </p>
       <div class="links">
         <a href="https://github.com/daehun0924" target="_blank" rel="noopener">Repo</a>
       </div>
     </li>
 
-    <!-- ✅ 추가 1: 음식물 쓰레기 배출 안내 플랫폼 -->
+    
     <li class="project-item">
       <div class="title">
         <strong>음식물 쓰레기 배출 안내 플랫폼</strong>
@@ -125,7 +131,7 @@ excerpt: ""
       </div>
     </li>
 
-    <!-- ✅ 추가 2: Playground! VR -->
+    
     <li class="project-item">
       <div class="title">
         <strong>Playground!</strong>
