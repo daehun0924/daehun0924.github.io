@@ -32,7 +32,7 @@ excerpt: ""
     </div>
 
     <div class="about-photo">
-      <img src="/assets/images/avatar.jpg" alt="Daehun Kim" />
+      <img src="/assets/images/kimdaehun.jpg" alt="Daehun Kim" />
     </div>
   </div>
 </section>
