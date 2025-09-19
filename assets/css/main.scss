@@ -3,13 +3,7 @@
 ---
 @charset "utf-8";
 
-/* 테마 스킨 로드 */
-$minimal_mistakes_skin: "{{ site.minimal_mistakes_skin | default: 'air' }}";
-@import "minimal-mistakes/skins/#{$minimal_mistakes_skin}";
-@import "minimal-mistakes";
-
-/* ====== 커스텀 (라이트 & 프로 느낌) ====== */
-
+/* ===== 라이트 & 프로페셔널 톤 ===== */
 :root{
   --brand: #1a73e8;
   --line: #e9eef3;
@@ -17,7 +11,7 @@ $minimal_mistakes_skin: "{{ site.minimal_mistakes_skin | default: 'air' }}";
   --text-muted: #515a66;
 }
 
-/* 히어로 영역 슬로건 */
+/* 히어로 슬로건 */
 .hero-slogan{
   max-width: 1160px;
   margin: 40px auto 0;
@@ -43,7 +37,7 @@ $minimal_mistakes_skin: "{{ site.minimal_mistakes_skin | default: 'air' }}";
   color: var(--text-strong);
 }
 
-/* ABOUT 카드: 텍스트 + 우측 사진 */
+/* ABOUT 카드 */
 .about-card{
   background: #fff;
   border: 1px solid var(--line);
@@ -69,9 +63,7 @@ $minimal_mistakes_skin: "{{ site.minimal_mistakes_skin | default: 'air' }}";
 
 /* STACKS 뱃지 */
 .stack-group{ margin-top: 16px; }
-.stack-group h3{
-  font-size: 16px; font-weight: 700; margin: 8px 0;
-}
+.stack-group h3{ font-size: 16px; font-weight: 700; margin: 8px 0; }
 .badges{ display: flex; flex-wrap: wrap; gap: 8px; }
 .badge{
   display: inline-block;
@@ -103,7 +95,9 @@ $minimal_mistakes_skin: "{{ site.minimal_mistakes_skin | default: 'air' }}";
 .project-item .desc{ color: var(--text-muted); margin: 8px 0 6px; }
 .project-item .links a{
   font-weight: 600; color: var(--brand); margin-right: 12px;
+  text-decoration: none;
 }
+.project-item .links a:hover{ text-decoration: underline; }
 
 /* QUAL */
 .qual-list{ margin-left: 18px; }
