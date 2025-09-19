@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: "Keep Shipping, Keep Learning"
+title: "Build Experiences, Not Just Code."
 permalink: /
 header:
   overlay_color: "#000"
@@ -11,7 +11,7 @@ excerpt: ""
 
 <!-- ===== HERO SLOGAN ===== -->
 <div class="hero-slogan">
-  <h1>Keep Shipping, Keep Learning</h1>
+  <h1>Build Experiences, Not Just Code.</h1>
 </div>
 
 <!-- ===== ABOUT ===== -->
@@ -20,13 +20,13 @@ excerpt: ""
     <div class="about-text">
       <h2 class="section-title">Daehun Kim | 김대훈</h2>
       <p class="lead">
-        개발 프로세스는 꼼꼼하게, 결과는 심플·안정·경험 중심으로 만드는 풀스택/AI 개발자입니다.
-        AI · Web · VR 프로젝트를 수행하며, 사용자 경험을 최우선으로 설계하고 빠르게 배포합니다.
+        사용자 경험 중심 위주로 만드는 풀스택/AI 개발자입니다.
+        AI · Web · VR 등 다양한 프로젝트를 수행하며, 사용자 경험을 최우선으로 설계하고 빠르게 배포합니다.
       </p>
 
       <div class="kv">
         <div><strong>Contact</strong> · <a href="mailto:your@email.com">your@email.com</a> · <a href="https://github.com/daehun0924">GitHub</a></div>
-        <div><strong>Education</strong> · 금오공과대학교 · 풀스택 개발 교육 과정 수료(7개월)</div>
+        <div><strong>Education</strong> · 금오공과대학교 컴퓨터소프트웨어공학과 · 풀스택 개발자 양성 교육 과정 6기 수료(7개월)</div>
         <div><strong>Desired position</strong> · 사용자 경험 지향의 웹/AI 엔지니어</div>
       </div>
     </div>
@@ -45,9 +45,10 @@ excerpt: ""
     <h3>Language</h3>
     <div class="badges">
       <span class="badge">JavaScript</span>
-      <span class="badge">TypeScript</span>
       <span class="badge">Python</span>
       <span class="badge">Java</span>
+      <span class="badge">C</span>
+      <span class="badge">HTML5/CSS</span>   
     </div>
   </div>
 
@@ -56,7 +57,7 @@ excerpt: ""
     <div class="badges">
       <span class="badge">React</span>
       <span class="badge">Vite</span>
-      <span class="badge">Spring Boot</span>
+      <span class="badge">Spring Boot / Spring Security</span>
       <span class="badge">Express</span>
     </div>
   </div>
@@ -67,7 +68,6 @@ excerpt: ""
       <span class="badge">MySQL</span>
       <span class="badge">JWT</span>
       <span class="badge">GitHub Actions</span>
-      <span class="badge">Docker(기초)</span>
     </div>
   </div>
 </section>
@@ -113,8 +113,9 @@ excerpt: ""
 <section class="section" id="qualifications">
   <h2 class="section-title">Qualifications</h2>
   <ul class="qual-list">
+    <li>2025 IITP 대학-기업 협력형 SW아카데미 사업 팀프로젝트 최우수상</li>
+    <li>2022 금오공과대학교 WebKit 640기 팀 프로젝트 경연 대상(1위)</li>
     <li>AI·웹 프로젝트 다수 수행(수상 경력 포함) – 사용자 경험 중심 설계</li>
-    <li>JWT 인증/인가, REST API, MySQL 모델링과 운영 경험</li>
-    <li>프로젝트 문서화·데모 정리·배포 자동화(GitHub Pages/Actions) 기반</li>
+    <li>JWT 인증/인가, REST API, MySQL 데이터베이스 설계 및 개발 경험</li>
   </ul>
 </section>
