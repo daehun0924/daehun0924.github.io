@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: "Build Experiences, Not Just Code."
+title: "Keep Shipping, Keep Learning"
 permalink: /
 header:
   overlay_color: "#000"
@@ -11,7 +11,7 @@ excerpt: ""
 
 <!-- ===== HERO SLOGAN ===== -->
 <div class="hero-slogan">
-  <h1>Build Experiences</h1>
+  <h1>Keep Shipping, Keep Learning</h1>
 </div>
 
 <!-- ===== ABOUT ===== -->
@@ -25,7 +25,7 @@ excerpt: ""
       </p>
 
       <div class="kv">
-        <div><strong>Contact</strong> · <a href="mailto:your@email.com">daehun6473@naver.com</a> · <a href="https://github.com/daehun0924">GitHub</a></div>
+        <div><strong>Contact</strong> · <a href="mailto:your@email.com">your@email.com</a> · <a href="https://github.com/daehun0924">GitHub</a></div>
         <div><strong>Education</strong> · 금오공과대학교 · 풀스택 개발 교육 과정 수료(7개월)</div>
         <div><strong>Desired position</strong> · 사용자 경험 지향의 웹/AI 엔지니어</div>
       </div>
