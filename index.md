@@ -82,7 +82,7 @@ excerpt: ""
         <strong>Son’sation</strong>
         <span class="tags"><span>React</span><span>Spring Boot</span><span>PyTorch</span><span>MediaPipe</span></span>
       </div>
-      <p class="desc">AI 기반 수어 학습 플랫폼. SignBERT 기반 모델과 실시간 예측 UI를 결합해 학습-예측 결과 제공.
+      <p class="desc">AI 기반 수어 학습 플랫폼. SignBERT 기반 모델과 실시간 예측 UI를 결합해 학습-예측 결과 제공.<br>
        <em>개발 기간:</em> 2025.03.27 ~ 2025.05.22 · <em>개발 인원:</em> 5명 · <em>역할:</em> AI 개발 / Frontend
       </p>
       <div class="links">
