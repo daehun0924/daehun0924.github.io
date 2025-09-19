@@ -44,33 +44,49 @@ excerpt: ""
   <div class="stack-group">
     <h3>Language</h3>
     <div class="badges">
-      <span class="badge">JavaScript</span>
-      <span class="badge">Python</span>
-      <span class="badge">Java</span>
-      <span class="badge">C</span>
-      <span class="badge">HTML5/CSS</span>   
+      <span class="badge"><i class="devicon-javascript-plain colored"></i>JavaScript</span>
+      <span class="badge"><i class="devicon-typescript-plain colored"></i>TypeScript</span>
+      <span class="badge"><i class="devicon-python-plain colored"></i>Python</span>
+      <span class="badge"><i class="devicon-java-plain colored"></i>Java</span>
+      <span class="badge"><i class="devicon-csharp-plain colored"></i>C#</span>
+      <span class="badge"><i class="devicon-c-plain colored"></i>C</span>
+      <span class="badge"><i class="devicon-html5-plain colored"></i>HTML5</span>
+      <span class="badge"><i class="devicon-css3-plain colored"></i>CSS3</span>
     </div>
   </div>
 
   <div class="stack-group">
     <h3>Framework</h3>
     <div class="badges">
-      <span class="badge">React</span>
-      <span class="badge">Vite</span>
-      <span class="badge">Spring Boot / Spring Security</span>
-      <span class="badge">Express</span>
+      <span class="badge"><i class="devicon-react-original colored"></i>React</span>
+      <span class="badge"><i class="devicon-vitejs-plain colored"></i>Vite</span>
+      <span class="badge"><i class="devicon-spring-plain colored"></i>Spring Boot / Spring Security</span>
+      <span class="badge"><i class="devicon-express-original"></i>Express</span>
+      <span class="badge"><i class="devicon-unity-original colored"></i>Unity</span>
+    </div>
+  </div>
+
+  <div class="stack-group">
+    <h3>AI / ML</h3>
+    <div class="badges">
+      <span class="badge"><i class="devicon-pytorch-original colored"></i>PyTorch</span>
+      <span class="badge">MediaPipe</span>
+      <span class="badge">SignBERT</span>
     </div>
   </div>
 
   <div class="stack-group">
     <h3>Platform / Tool</h3>
     <div class="badges">
-      <span class="badge">MySQL</span>
+      <span class="badge"><i class="devicon-mysql-plain colored"></i>MySQL</span>
       <span class="badge">JWT</span>
-      <span class="badge">GitHub Actions</span>
+      <span class="badge"><i class="devicon-github-plain colored"></i>GitHub Actions</span>
+      <span class="badge"><i class="devicon-docker-plain colored"></i>Docker(기초)</span>
+      <span class="badge">Meta Quest 3</span>
     </div>
   </div>
 </section>
+
 
 <!-- ===== PROJECTS ===== -->
 <section class="section" id="projects">
