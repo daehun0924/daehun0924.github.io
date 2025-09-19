@@ -85,7 +85,6 @@ excerpt: ""
       <p class="desc">AI 기반 수어 학습 플랫폼. SignBERT 기반 모델과 실시간 예측 UI를 결합해 학습-피드백 루프 제공.</p>
       <div class="links">
         <a href="https://github.com/daehun0924" target="_blank" rel="noopener">Repo</a>
-        <!-- <a href="#" target="_blank" rel="noopener">Demo</a> -->
       </div>
     </li>
 
@@ -95,7 +94,9 @@ excerpt: ""
         <span class="tags"><span>Spring Boot</span><span>Spring Security</span><span>JWT</span><span>MySQL</span></span>
       </div>
       <p class="desc">배출 이벤트 수집 → 관리자 대시보드에서 상태 확인 및 수거 요청까지 연결되는 공공/IoT 연계 웹 서비스.</p>
-      <div class="links"><a href="https://github.com/daehun0924" target="_blank" rel="noopener">Repo</a></div>
+      <div class="links">
+        <a href="https://github.com/daehun0924" target="_blank" rel="noopener">Repo</a>
+      </div>
     </li>
 
     <li class="project-item">
@@ -104,10 +105,44 @@ excerpt: ""
         <span class="tags"><span>React</span><span>Express</span><span>MySQL</span></span>
       </div>
       <p class="desc">단어장 생성·관리와 퀴즈를 하나로 묶은 UX 중심 어휘 학습 서비스. 세트 기반 데이터 구조 및 결과 저장.</p>
-      <div class="links"><a href="https://github.com/daehun0924" target="_blank" rel="noopener">Repo</a></div>
+      <div class="links">
+        <a href="https://github.com/daehun0924" target="_blank" rel="noopener">Repo</a>
+      </div>
+    </li>
+
+    <!-- ✅ 추가 1: 음식물 쓰레기 배출 안내 플랫폼 -->
+    <li class="project-item">
+      <div class="title">
+        <strong>음식물 쓰레기 배출 안내 플랫폼</strong>
+        <span class="tags"><span>React</span><span>JavaScript</span><span>Express</span><span>MySQL</span></span>
+      </div>
+      <p class="desc">
+        지역 기반 공공 데이터를 활용하여 음식물 쓰레기 배출 안내 및 개인 맞춤형 관리 기능을 제공하는 웹 플랫폼.<br>
+        <em>개발 기간:</em> 2024.04.02 ~ 2024.06.18 · <em>개발 인원:</em> 4명 · <em>역할:</em> Frontend/Backend
+      </p>
+      <div class="links">
+        <a href="https://github.com/daehun0924" target="_blank" rel="noopener">Repo</a>
+      </div>
+    </li>
+
+    <!-- ✅ 추가 2: Playground! VR -->
+    <li class="project-item">
+      <div class="title">
+        <strong>Playground!</strong>
+        <span class="tags"><span>Unity</span><span>Meta Quest 3</span><span>C#</span></span>
+      </div>
+      <p class="desc">
+        지적장애인의 인지 발달과 집중력 향상을 돕기 위한 인터랙티브 VR 콘텐츠.<br>
+        Meta Quest 3 기기를 통해 체험 가능한 몰입형 교육 활동 제공.<br>
+        <em>개발 기간:</em> 2024.11.08 ~ 2024.12.13 · <em>개발 인원:</em> 2명 · <em>역할:</em> VR 콘텐츠 개발
+      </p>
+      <div class="links">
+        <a href="https://github.com/daehun0924" target="_blank" rel="noopener">Repo</a>
+      </div>
     </li>
   </ul>
 </section>
+
 
 <!-- ===== QUALIFICATIONS ===== -->
 <section class="section" id="qualifications">
