@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: "Keep Shipping, Keep Learning"
+title: "Build Experiences, Not Just Code."
 permalink: /
 header:
   overlay_color: "#000"
