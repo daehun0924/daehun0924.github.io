@@ -158,7 +158,7 @@ excerpt: ""
         <em>개발 기간:</em> 2024.11.08 ~ 2024.12.13 · <em>개발 인원:</em> 2명 · <em>역할:</em> VR 콘텐츠 개발
       </p>
       <div class="links">
-        <a href="https://github.com/daehun0924" target="_blank" rel="noopener">Repo</a>
+        [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-black?logo=github)](https://github.com/daehun0924/Playground)
       </div>
     </li>
   </ul>
