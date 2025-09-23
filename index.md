@@ -101,7 +101,9 @@ excerpt: ""
        <em>개발 기간:</em> 2025.03.27 ~ 2025.05.22 · <em>개발 인원:</em> 5명 · <em>역할:</em> AI 개발 / Frontend
       </p>
       <div class="links">
-        <a href="https://github.com/daehun0924" target="_blank" rel="noopener">Repo</a>
+         <a href="https://github.com/daehun0924/sonsationAI" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/GitHub-Repo-black?logo=github" alt="GitHub Repo">
+  </a>
       </div>
     </li>
 
@@ -114,7 +116,9 @@ excerpt: ""
        <em>개발 기간:</em> 2025.03.20 ~ 2024.04.01 · <em>개발 인원:</em> 1명
       </p>
       <div class="links">
-        <a href="https://github.com/daehun0924" target="_blank" rel="noopener">Repo</a>
+         <a href="https://github.com/trashbinFront/" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/GitHub-Repo-black?logo=github" alt="GitHub Repo">
+  </a>
       </div>
     </li>
 
@@ -127,7 +131,9 @@ excerpt: ""
        <em>개발 기간:</em> 2025.02.27 ~ 2025.03.11 · <em>개발 인원:</em> 3명 · <em>역할:</em> Frontend/Backend
       </p>
       <div class="links">
-        <a href="https://github.com/daehun0924" target="_blank" rel="noopener">Repo</a>
+         <a href="https://github.com/daehun0924/voca" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/GitHub-Repo-black?logo=github" alt="GitHub Repo">
+  </a>
       </div>
     </li>
 
@@ -142,7 +148,9 @@ excerpt: ""
         <em>개발 기간:</em> 2024.04.02 ~ 2024.06.18 · <em>개발 인원:</em> 4명 · <em>역할:</em> Frontend/Backend
       </p>
       <div class="links">
-        <a href="https://github.com/daehun0924" target="_blank" rel="noopener">Repo</a>
+        <a href="https://github.com/daehun0924/Umm-s" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/GitHub-Repo-black?logo=github" alt="GitHub Repo">
+  </a>
       </div>
     </li>
 
@@ -158,7 +166,7 @@ excerpt: ""
         <em>개발 기간:</em> 2024.11.08 ~ 2024.12.13 · <em>개발 인원:</em> 2명 · <em>역할:</em> VR 콘텐츠 개발
       </p>
       <div class="links">
-        <a href="https://github.com/daehun0924/Playground" target="_blank" rel="noopener">
+        <a href="https://github.com/daehun0924/metaverse" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/GitHub-Repo-black?logo=github" alt="GitHub Repo">
   </a>
       </div>
