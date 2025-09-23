@@ -102,7 +102,7 @@ excerpt: ""
       </p>
       <div class="links">
          <a href="https://github.com/daehun0924/sonsationAI" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/GitHub-Repo-black?logo=github" alt="GitHub Repo">
+    <img src="https://img.shields.io/badge/GitHub-AIcode-black?logo=github" alt="GitHub Repo">
   </a>
       </div>
     </li>
