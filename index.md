@@ -116,7 +116,12 @@ excerpt: ""
        <em>개발 기간:</em> 2025.03.20 ~ 2024.04.01 · <em>개발 인원:</em> 1명
       </p>
       <div class="links">
-         <a href="https://github.com/trashbinFront/" target="_blank" rel="noopener">
+         <a href="https://github.com/trashbinFront" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/GitHub-Repo-black?logo=github" alt="GitHub Repo">
+  </a>
+      </div>
+      <div class="links">
+         <a href="https://github.com/daehun0924/TrashbinWithSpringSecurityBackendPart" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/GitHub-Repo-black?logo=github" alt="GitHub Repo">
   </a>
       </div>
