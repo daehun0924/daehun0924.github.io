@@ -117,12 +117,12 @@ excerpt: ""
       </p>
       <div class="links">
          <a href="https://github.com/trashbinFront" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/GitHub-Repo-black?logo=github" alt="Client">
+    <img src="https://img.shields.io/badge/GitHub-Client-black?logo=github" alt="Client">
   </a>
       </div>
       <div class="links">
          <a href="https://github.com/daehun0924/TrashbinWithSpringSecurityBackendPart" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/GitHub-Repo-black?logo=github" alt="Server">
+    <img src="https://img.shields.io/badge/GitHub-Server-black?logo=github" alt="Server">
   </a>
       </div>
     </li>
