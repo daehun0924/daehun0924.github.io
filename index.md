@@ -18,7 +18,7 @@ excerpt: ""
 <section class="section" id="about">
   <div class="about-card">
     <div class="about-text">
-      <h2 class="section-title">Daehun Kim | 김대훈 daehun0924.github.io/</h2>
+      <h2 class="section-title">Daehun Kim | 김대훈</h2>
       <p class="lead">
         사용자 경험 중심 위주로 만드는 풀스택/AI 개발자입니다.<br>
         AI · Web · VR 등 다양한 프로젝트를 수행하며, 사용자 경험을 최우선으로 설계하고 빠르게 배포합니다.
