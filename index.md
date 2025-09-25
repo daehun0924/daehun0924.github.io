@@ -25,7 +25,7 @@ excerpt: ""
       </p>
 
       <div class="kv">
-        <div><strong>Contact</strong> · <a href="mailto:your@email.com">daehun6473@naver.com</a> · <a href="https://github.com/daehun0924">GitHub</a></div>
+        <div><strong>Contact</strong> · <a href="mailto:your@email.com">daehun6473@naver.com</a> · <a href="https://github.com/daehun0924">GitHub</a> · <a href="https://github.com/daehun0924">daehun0924.github.io</a></div>
         <div><strong>Education</strong> <br> 금오공과대학교 컴퓨터소프트웨어공학과 졸업 · 풀스택 개발자 양성 교육 과정 6기 수료</div>
         <div><strong>Desired position</strong> · 사용자 경험 지향의 웹/AI 엔지니어</div>
       </div>
