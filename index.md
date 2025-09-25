@@ -18,14 +18,14 @@ excerpt: ""
 <section class="section" id="about">
   <div class="about-card">
     <div class="about-text">
-      <h2 class="section-title">Daehun Kim | 김대훈</h2>
+      <h2 class="section-title">Daehun Kim | 김대훈 daehun0924.github.io/</h2>
       <p class="lead">
         사용자 경험 중심 위주로 만드는 풀스택/AI 개발자입니다.<br>
         AI · Web · VR 등 다양한 프로젝트를 수행하며, 사용자 경험을 최우선으로 설계하고 빠르게 배포합니다.
       </p>
 
       <div class="kv">
-        <div><strong>Contact</strong> · <a href="mailto:your@email.com">daehun6473@naver.com</a> · <a href="https://github.com/daehun0924">GitHub</a> · <a href="https://github.com/daehun0924">daehun0924.github.io</a></div>
+        <div><strong>Contact</strong> · <a href="mailto:your@email.com">daehun6473@naver.com</a> · <a href="https://github.com/daehun0924">GitHub</a></div>
         <div><strong>Education</strong> <br> 금오공과대학교 컴퓨터소프트웨어공학과 졸업 · 풀스택 개발자 양성 교육 과정 6기 수료</div>
         <div><strong>Desired position</strong> · 사용자 경험 지향의 웹/AI 엔지니어</div>
       </div>
